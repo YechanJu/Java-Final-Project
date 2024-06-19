@@ -1,6 +1,6 @@
 package Todolist;
 
-// Simple class to hold task data
+// Class to hold task data
 public class Task {
     private String title;
     private String deadline;
