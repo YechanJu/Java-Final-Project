@@ -28,5 +28,7 @@ User's Guide
 ![image](https://github.com/YechanJu/Java-Final-Project/assets/75787846/c6f8db36-b3e9-40ca-9a5e-d9f74040b302)
 
 
+UML Diagram of the classes
+![image](https://github.com/YechanJu/Java-Final-Project/assets/75787846/9d211900-b459-4814-ac32-d75a5ff25de6)
 
 
