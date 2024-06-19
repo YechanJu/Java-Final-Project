@@ -20,3 +20,5 @@ But, there are some problems need to be fixed.
 6.	Add more features when adding a task (e.g., category selection).
 7.	Improve the UI since the current design only includes basic GUI elements
 
+User's Guide
+![image](https://github.com/YechanJu/Java-Final-Project/assets/75787846/b4d59f88-51ec-4821-b2d5-dda53080f273)
