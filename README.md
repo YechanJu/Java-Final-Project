@@ -22,3 +22,11 @@ But, there are some problems need to be fixed.
 
 User's Guide
 ![image](https://github.com/YechanJu/Java-Final-Project/assets/75787846/b4d59f88-51ec-4821-b2d5-dda53080f273)
+![image](https://github.com/YechanJu/Java-Final-Project/assets/75787846/7a9ac99c-95a8-4a3c-8290-1c139167d479)
+![image](https://github.com/YechanJu/Java-Final-Project/assets/75787846/eda03e89-5149-423a-8d3f-5d31fd67e74a)
+![image](https://github.com/YechanJu/Java-Final-Project/assets/75787846/75fd86da-4916-4904-b7fd-bdf89e9ec8da)
+![image](https://github.com/YechanJu/Java-Final-Project/assets/75787846/c6f8db36-b3e9-40ca-9a5e-d9f74040b302)
+
+
+
+
